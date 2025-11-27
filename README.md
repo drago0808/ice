@@ -13,5 +13,5 @@ This repository contains three folders:
 - R Markdown file (.Rmd) integrates R code with text to generate report
 - R file (.r) contains all R code used for data cleaning, visualization, and analysis
 
-### `Folder/`
+### `Data/`
 - Contains the original dataset used in the project
