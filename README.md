@@ -4,7 +4,7 @@ This repository contains three folders:
 
 ### `01_Report/`
 - Contains the final HTML report including methods, results, and conclusions
-- File must be downloaded to view
+- File can be downloaded for viewing
 
 ### `02_Code/`
 - R Markdown file (.Rmd) integrates R code with text to generate report
