@@ -3,7 +3,7 @@
 
 ## Repository Structure
 
-This repository contains three folders:
+This repository contains the following:
 
 ### `Report.html`
 - The final HTML report including methods, results, and conclusions
