@@ -9,4 +9,4 @@ Contains the final deliverable (PDF/HTML report summarizing the methods, results
 Contains the datasets used in the project.  
 
 ### `Code/`
-Includes all scripts used for data cleaning, analysis, and visualization.  
+Contains all scripts used for data cleaning, analysis, and visualization.  
