@@ -2,7 +2,7 @@
 
 This repository contains three folders:
 
-### `00_Report/`
+### `0_Report/`
 Contains the final deliverable (PDF/HTML report summarizing the methods, results, and conclusions).  
 
 ### `Data/`
