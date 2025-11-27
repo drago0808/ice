@@ -3,10 +3,12 @@
 This repository contains three folders:
 
 ### `0_Report/`
-Contains the final deliverable (PDF/HTML report summarizing the methods, results, and conclusions).  
+- Contains the final HTML report including methods, results, and conclusions
+- File must be downloaded to view
 
 ### `Data/`
-Contains the datasets used in the project.  
+- Contains the dataset used in the project
 
 ### `Code/`
-Contains all scripts used for data cleaning, analysis, and visualization.  
+- R file (.r) contains all R code used for data cleaning, visualization, and analysis
+- R Markdown file (.Rmd) integrates R code with text to generate report
