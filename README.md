@@ -3,7 +3,7 @@
 This repository contains three folders:
 
 ### `Report.html`
-- Contains the final HTML report including methods, results, and conclusions
+- The final HTML report including methods, results, and conclusions
 - File can be downloaded for viewing
 
 ### `Code/`
